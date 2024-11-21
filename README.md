@@ -1,9 +1,12 @@
 # NinjaAdventure
-DESCRIPCIÓN
+DESCRIPCIÓN:
+
 Videojuego RPG en 2d de acción y aventura sobre ninjas, desarrollado en unity.
-GÉNERO DE VIDEOJUEGO
+GÉNERO DE VIDEOJUEGO:
+
 Aventura: este juego de aventura tendrá mecánicas en tiempo real y acción, con combates dinámicos y directos.
-PÚBLICO OBJETIVO
+PÚBLICO OBJETIVO:
+
 •	EDAD: el juego está dirigido para todo público, dado que tiene un ambiente amigable.
 •	SEXO: masculino / femenino
 
