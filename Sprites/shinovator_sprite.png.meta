@@ -1,0 +1,1787 @@
+fileFormatVersion: 2
+guid: 20fb497a8404c0e48b696dd595aace17
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shinovator_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1850
+        width: 146
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48a2367cf9df24785a276dd60a13e9
+      internalID: 1558030470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1850
+        width: 141
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e788aa62d80b194d88cba10b9333e11
+      internalID: -884358647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1848
+        width: 150
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477694fdc8cc2ba419880c7b6b7d52c6
+      internalID: -928657357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1849
+        width: 257
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1c9521f7ed194597dab11b8286604
+      internalID: -1542791034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1851
+        width: 254
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33516ab9864bb0842ab5dbcbce74da67
+      internalID: 1753969521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1852
+        width: 266
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a67fdc2f2a5649a31fc8fff539cbc
+      internalID: 2070191524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1845
+        width: 266
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02ad1b64f97594185bb6766870fc2d
+      internalID: -471363028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1839
+        width: 266
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0bf208e39abe4abac2fe7b89a75ad
+      internalID: 1911592036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1600
+        width: 210
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca42fde01423a4d8d1cad76dbcd111
+      internalID: 1036632166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1600
+        width: 193
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4356b9069a1cea49a48c21ee536fdc7
+      internalID: -1159685534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1597
+        width: 116
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1243977bf31a84cbe6aad8412f0c95
+      internalID: 2110318748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1593
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763425bdea1f2c14caae0a6ed82e6f6c
+      internalID: -262420204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1591
+        width: 167
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8623e52cbd9f5340a70b2246732c126
+      internalID: 851142200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1595
+        width: 187
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2fe4bb3e91e249a46130df4e9af76
+      internalID: -1967407037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1601
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165d24e3d5289247bde0d8a7fa89431
+      internalID: 121260867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1599
+        width: 216
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507dc25114dbd7c48895889572b701f6
+      internalID: 632825679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1600
+        width: 219
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157d8470eeda834c9bce9fd16875b26
+      internalID: 780472632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1324
+        width: 143
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5898267f33e6734478bb6da02187351d
+      internalID: 1539713403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1317
+        width: 135
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05eeaaf2c6cb98408451be5ba038bd8
+      internalID: 1734225160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1332
+        width: 129
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b7523ebab128f4ca212193a3247589
+      internalID: 1987302557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1333
+        width: 129
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d57dff62f30a4baf8bec593e90126
+      internalID: -371533602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1336
+        width: 139
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebade90edcca25747a4313ec9590ce0f
+      internalID: -1597152783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1340
+        width: 153
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a53dc2ddd3ed4bb8df466882046d6
+      internalID: 1600289521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1343
+        width: 167
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996871483f3ce354991ef56bd9832115
+      internalID: -631439002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1334
+        width: 151
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5670987098627247b78c01872d80c8b
+      internalID: -542990563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1334
+        width: 151
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16d4e61f6fc1346b0a5ddf80ed59c6
+      internalID: -1771477478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1396
+        width: 20
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5ed1893c1f6804dbbb2e726ecd7922
+      internalID: 1722676011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1435
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba88a87fc1ac6419de417695e2ccd5
+      internalID: 2063082690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1070
+        width: 152
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ee45e313798d9449886d10b41d70c6
+      internalID: -397271371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1043
+        width: 238
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d96ce612c90f4caed1796e436c854
+      internalID: -749208783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1043
+        width: 237
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cc0097fda8ad44bea05029ee9d2c3
+      internalID: -1904851456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1025
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0efb802c66ef6d44ad86badcd38d734
+      internalID: -1865247801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1025
+        width: 250
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093e9c77d077b7459d4669ced66016c
+      internalID: -1180309960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1025
+        width: 251
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c72e265d9f334b910e3d9abd126e7
+      internalID: 1782939121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1041
+        width: 171
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1081b38baf5e2648b9a5fa3fd058404
+      internalID: 1270965144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1070
+        width: 190
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e011931889605409a3d00897802b46
+      internalID: 933547472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 791
+        width: 158
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf73507fbc6e8744b2bdcbe75e07622
+      internalID: 1412570512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 795
+        width: 160
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f893a2808232d4f86ca64436c7e5ac
+      internalID: -242833422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 798
+        width: 163
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a85a0786d03a549845371e0418103d
+      internalID: 74456949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 799
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d030b2fb723788c4e8a6b286bd1f8ab8
+      internalID: -2128236541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 799
+        width: 182
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e016590a34c98b4d940d945acabc4d0
+      internalID: -1835754363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 799
+        width: 186
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9936d5a2a227d04da3d04173651379e
+      internalID: 2043555591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 799
+        width: 185
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2401659cf2ab0f409f59d37454a73df
+      internalID: -1330266321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 798
+        width: 171
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033e84b4348e31439641dbf496a3457
+      internalID: 776615852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 796
+        width: 161
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbda9c6d854614d9305ee7c85e0382
+      internalID: -1707086840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 541
+        width: 160
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99500addde12c4395f4b3fde125a30
+      internalID: -501662104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 532
+        width: 168
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd777e7def76971488043b54f088bbb6
+      internalID: -1145526280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 522
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad6ad803706fa4bbecf3dab6d1405d
+      internalID: -1705447984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 526
+        width: 165
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c56aac10689642ac9c78cc926b6ca
+      internalID: 2027878963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 534
+        width: 182
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2835909a5bd959447a8e1c7742c8b5a8
+      internalID: 1923936848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_4
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 527
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb03c9776b9a849a376706cf81a137
+      internalID: -1328056598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 527
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4797968f063a46993dc0701795e4e
+      internalID: 1436678116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_6
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 520
+        width: 165
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de24f3eaf6ea91d48b5382493b0b3f69
+      internalID: -1714228051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_7
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 530
+        width: 162
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88da60cdd6f034a9ec6d726f909ae1
+      internalID: -1012209262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_8
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 543
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86345cd253a2e4ca84907f4745e724
+      internalID: -232073188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_run_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 168
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762ec73ba2575446939e2ec39c5f8b0
+      internalID: -44093951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 276
+        width: 133
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0b031b31003b47a9ff3cf86548b7d
+      internalID: 2083091006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 278
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2c849f58b11c409242e9d2b36dd9b
+      internalID: -563940635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 268
+        width: 163
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa719c4059b7046b5f482e29adb64c
+      internalID: -1377945862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 269
+        width: 157
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8151b75013d364459705683f92ee2ed
+      internalID: 1162804271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 269
+        width: 155
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3afa46ffb0e694e93c31d6ae5eee2f
+      internalID: -270539009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 269
+        width: 154
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524991cc430fa841ad86c9fb652227a
+      internalID: -2130361881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 269
+        width: 152
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7e869e00a35348b9db3845c5b10bd
+      internalID: 505425477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 267
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77f309c12617a47a0fe7aa913906bd
+      internalID: 688583982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 267
+        width: 152
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e151dd2dd878e458394e89cc55b351
+      internalID: 1148531412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 125
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b5f3e937b5154993504add89eb05c
+      internalID: 1413343727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fc816ae7dbe34f8a04312dd9d336d
+      internalID: 712111218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 11
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df3ac8ee5f96f45adc1874de0b35b9
+      internalID: 462570305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 11
+        width: 119
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fac65348c319e84ab8ae471ea566b88
+      internalID: 70148887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 11
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6170979ab3ef4f8d26df8ddeb6e62
+      internalID: 1381980478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 11
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f45c54058593428edfd73c933b970
+      internalID: 232925440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 11
+        width: 117
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132fd551d1517548a7377266e22ed52
+      internalID: -1021388346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 11
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad851cb8fbe5534b8384b6efd263546
+      internalID: -1059926999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 11
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290587b8705058429b5127f824ffe2c
+      internalID: -1641614970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 11
+        width: 119
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea19931787be04aadc94baaa5e3780
+      internalID: -2009586880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinovator_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 11
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a817bb83c5c47f41a07524734a18c26
+      internalID: 1963419383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shinovator_idle_0: 712111218
+      shinovator_idle_1: 462570305
+      shinovator_idle_2: 70148887
+      shinovator_idle_3: 1381980478
+      shinovator_idle_4: 232925440
+      shinovator_idle_5: -1021388346
+      shinovator_idle_6: -1059926999
+      shinovator_idle_7: -1641614970
+      shinovator_idle_8: -2009586880
+      shinovator_idle_9: 1963419383
+      shinovator_run_0: -1145526280
+      shinovator_run_1: -1705447984
+      shinovator_run_2: 2027878963
+      shinovator_run_3: 1923936848
+      shinovator_run_4: -1328056598
+      shinovator_run_5: 1436678116
+      shinovator_run_6: -1714228051
+      shinovator_run_7: -1012209262
+      shinovator_run_8: -232073188
+      shinovator_run_9: -44093951
+      shinovator_sprite_0: 1558030470
+      shinovator_sprite_1: -884358647
+      shinovator_sprite_10: 1036632166
+      shinovator_sprite_11: -1159685534
+      shinovator_sprite_12: 2110318748
+      shinovator_sprite_13: -262420204
+      shinovator_sprite_14: 851142200
+      shinovator_sprite_15: -1967407037
+      shinovator_sprite_16: 121260867
+      shinovator_sprite_17: 632825679
+      shinovator_sprite_18: 780472632
+      shinovator_sprite_19: 1539713403
+      shinovator_sprite_2: -928657357
+      shinovator_sprite_20: 1734225160
+      shinovator_sprite_21: 1987302557
+      shinovator_sprite_22: -371533602
+      shinovator_sprite_23: -1597152783
+      shinovator_sprite_24: 1600289521
+      shinovator_sprite_25: -631439002
+      shinovator_sprite_26: -542990563
+      shinovator_sprite_27: -1771477478
+      shinovator_sprite_28: 1722676011
+      shinovator_sprite_29: 2063082690
+      shinovator_sprite_3: -1542791034
+      shinovator_sprite_30: -397271371
+      shinovator_sprite_31: -749208783
+      shinovator_sprite_32: -1904851456
+      shinovator_sprite_33: -1865247801
+      shinovator_sprite_34: -1180309960
+      shinovator_sprite_35: 1782939121
+      shinovator_sprite_36: 1270965144
+      shinovator_sprite_37: 933547472
+      shinovator_sprite_38: 1412570512
+      shinovator_sprite_39: -242833422
+      shinovator_sprite_40: 74456949
+      shinovator_sprite_41: -2128236541
+      shinovator_sprite_42: -1835754363
+      shinovator_sprite_43: 2043555591
+      shinovator_sprite_44: -1330266321
+      shinovator_sprite_45: 776615852
+      shinovator_sprite_46: -1707086840
+      shinovator_sprite_47: -501662104
+      shinovator_sprite_5: 1753969521
+      shinovator_sprite_58: 2083091006
+      shinovator_sprite_59: -563940635
+      shinovator_sprite_6: -1283653680
+      shinovator_sprite_60: -1377945862
+      shinovator_sprite_61: 1162804271
+      shinovator_sprite_62: -270539009
+      shinovator_sprite_63: -2130361881
+      shinovator_sprite_64: 505425477
+      shinovator_sprite_65: 688583982
+      shinovator_sprite_66: 1148531412
+      shinovator_sprite_67: 1413343727
+      shinovator_sprite_7: 2070191524
+      shinovator_sprite_8: -471363028
+      shinovator_sprite_9: 1911592036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
